@@ -21,3 +21,7 @@ Refer link -- https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
 
 Run command `node index.js` to start the server.<br>
 Errors if any will be shown in the console.
+
+### `Swagger Link`
+
+http://localhost:8000/documentation/
