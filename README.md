@@ -1,6 +1,9 @@
 # bittmax-react-backend
 ## Available Scripts
 
+### `Installing node`
+Refer Link -- https://nodejs.org/en/download/
+
 In the project directory, you can run:
 
 ### `npm install`
