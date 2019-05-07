@@ -16,5 +16,5 @@ Refer link -- https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
 
 ### `Running index/node file`
 
-Run command `node index.js` to start the server.
-You will also see any errors in the console.
+Run command `node index.js` to start the server.<br>
+Errors if any will be shown in the console.
