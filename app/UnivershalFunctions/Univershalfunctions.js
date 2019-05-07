@@ -77,9 +77,6 @@ const validateSchema = (data, schema, options) => {
     });
 }
 
-
-
-
 module.exports = {
     validateSchema: validateSchema,
     GenerateToken: GenerateToken

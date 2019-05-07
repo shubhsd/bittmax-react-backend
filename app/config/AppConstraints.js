@@ -28,7 +28,7 @@ ERROR_MESSAGE: {
     },
     NO_ACCESS_TOKEN:{
         customMessage: {
-            'en': 'No Access token or role provided'
+            'en': 'No Access token provided'
         }
     },
     INVALID_PHONE_NUMBER_PROVIDED: {
@@ -43,19 +43,9 @@ ERROR_MESSAGE: {
         }
     },
 
-    MARK_RESOLVE_PREMISSION: {
-        customMessage: {
-            'en': 'You have not permission to accept the request'
-        }
-    },
     PHONE_NUMBER_ALREADY:{
         customMessage: {
             'en': 'Phone number you have entered is already exists'
-        }
-    },
-    TOKEN_EXPIRED: {
-        customMessage: {
-            'en': 'This otp has been expired'
         }
     },
 

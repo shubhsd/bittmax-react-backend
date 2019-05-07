@@ -10,7 +10,6 @@ const tokenVerification =  (request, response, next) =>{
 
     console.log(token,role,'rolerolerolerolerolerolerolerolerolerolerolerole')
 
-
 	if (!token||!role) {
         return sendResponse.sendErrorMessagePrevious(AppConstraints.STATUSCODE.BAD_REQUEST,
             language, AppConstraints.ERROR_MESSAGE.NO_ACCESS_TOKEN, response);
